@@ -1,0 +1,5 @@
+# [那里有好多作业!](https://iamrege.github.io/thereiszuoye)
+## 英语专区
+###### [返回上页:查看作业](https://iamrege.github.io/thereiszuoye/releases)
+### 最新更新:[2022年7月1日21:00《攻略》P1\~7](https://iamrege.github.io/thereiszuoye/releases/english/0)
+### 下一波作业:2022年7月2日21:00《攻略》P8\~15
