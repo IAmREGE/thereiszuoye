@@ -63,7 +63,7 @@ good marks and high ranks. He is now learning Chinese with me.
 37\. worker/workman  38. man  39. shop/store  40. same  
 41\. these  42. those  43. their/theirs  
 **词汇拓展**  
-1\. women  2. actor/activity/activation/activationallity  3. driver  
+1\. women  2. actor/action/activity/activation/activationallity  3. driver  
 4\. manager/management  5. farmer  6. policemen  
 7\. men  8. work/worker/working  9. these  
 10\. those  11. their
