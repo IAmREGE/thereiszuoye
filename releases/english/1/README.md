@@ -71,7 +71,7 @@ B)  beautiful  7. building  8. fifth  9. lessons  10. are
 ##### V. 阅读理解
 BABBC
 ##### VI. 书面表达(示例,共55词)
-##### <center>**My school**</center>  
+**<center>My school</center>**  
 Now I am going to introduce my school. My school is beautiful and there are some
 trees and flowers in it. There are classroom buildings, a office building, and a
 playground. There are one hundred and seventeen teachers and about 2800
