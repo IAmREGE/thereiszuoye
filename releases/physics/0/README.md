@@ -59,3 +59,9 @@ $\eta=\frac{W_{有}}{W_{总}}=\frac{Gh}{Fs}$
 求有用功:$W_{有}=W_{总}-W_{额}$ $W_{有}=\eta W_{总}$  
 求额外功:$W_{额}=W_{总}-W_{有}$
 -----
+![part1](https://user-images.githubusercontent.com/66211043/177004978-46e75a07-8893-4683-9793-b47ab278dd5f.png)  
+-----  
+![part2](https://user-images.githubusercontent.com/66211043/177004987-04797f8f-0e22-446c-85d3-8af353cd24ec.png)  
+-----  
+![part3](https://user-images.githubusercontent.com/66211043/177004990-f9787c13-82c3-4bfc-90ae-afcae7942f7e.png)  
+-----
