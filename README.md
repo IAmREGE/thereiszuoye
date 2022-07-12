@@ -5,3 +5,4 @@
 ### [进行Discussions讨论](https://github.com/IAmREGE/thereiszuoye/discussions)
 ### [我也要贡献答案](https://github.com/IAmREGE/thereiszuoye/pulls)
 ### [常见问题解答\(FAQ\)](https://iamrege.github.io/thereiszuoye/faq)
+#### 现在真的是在用爱发电了,[去看看我的新项目](https://github.com/IAmREGE/spm-xinxi8)
