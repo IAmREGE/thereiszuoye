@@ -22,7 +22,7 @@ BCBAC
 **词汇拓展**  
 1\. took taken  2. drove driven  
 3\. lay lay / lied lied  4. sell  5. driver
-### 重点短语
+### 重点短语(“/”分隔所有可能)
 1\. stand in line  2. wait for  
 3\. join in school travel / join in school trip / take part in school travel / take part in school trip  4. at the moment  
 5\. take photo / take picture / take photograph  6. a few  
@@ -106,7 +106,7 @@ EFCDA
 ##### VI. 任务型读写(“/”分隔所有可能)
 1\. Upside down. / They stick it upside down.  
 2\. On the eve of the lunar New Year. / They begin on the eve of the lunar New Year.  
-3\. 15 days. / They last 16 days.  
+3\. 15 days. / They last 15 days.  
 4\. talking  
 5\. Spring Festival. **(答案不唯一)**
 ##### VII. 摆烂
