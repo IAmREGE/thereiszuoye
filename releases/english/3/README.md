@@ -109,7 +109,7 @@ EFCDA
 3\. 15 days. / They last 15 days.  
 4\. talking  
 5\. Spring Festival. **(答案不唯一)**
-##### VII. 摆烂
+##### VII. 摆烂(2周目)
 ###### Let's have a break……
 # 七年级下册
 # Module 1  Lost and found
@@ -155,3 +155,55 @@ B)  6. shoes  7. fast  8. quickly  9. asks  10. them
 3\. Whose gloves  
 4\. When do  
 5\. How many do have
+##### IV. 根据汉语意思完成句子(“/”分隔所有可能)
+1\. First / First of all  
+2\. Quick / Hurry up / Be quick  
+3\. That's why / That is why  
+4\. looking for;find it  
+5\. forget things
+##### V. 完形填空
+CBBAB CACAB
+##### VI. 任务型读写(“/”分隔所有可能)
+1\. In central London. / It's in central London. / It is in central London.  
+2\. A box of false teeth.  
+3\. Six months. / 6 months.  
+4\. the list / our list  
+5\. The Transport Lost and Found Office. **(答案不唯一)**
+##### VII. 摆烂(3周目)
+# Module 2  What can you do?
+### 重点单词(“/”分隔所有可能)
+1\. tennis  2. piano  3. club  4. term  
+5\. board  6. monitor  7. ball / sphere  8. team  
+9\. score / point / mark  10. kite  11. play  12. ride  
+13\. worry  14. teach  15. promise  16. fly  
+17\. swim / swimming  18. all  19. pleased  20. fast  
+21\. healthy / well  22. best  23. tidy  24. sure  
+25\. then  26. just  27. everybody  
+**词汇拓展**  
+1\. flew flown  2. teacher  
+3\. swam swum  4. best
+### 重点短语(“/”分隔所有可能)
+1\. want to do sth. / would like to do sth.  2. like this  
+3\. worry about …  4. get on well with sb.  
+5\. be pleased to do sth.  6. promise to do sth.  
+7\. join school team  8. do cleaning  
+9\. be like  10. make our classroom beautiful
+### 能力训练
+##### I. 单项选择
+A)  CCAAB  
+B)  ACCCB
+##### II. 词汇(答案为完整单词)
+A)  1. ride  2. team  3. starting  4. monitor  5. promises  
+B)  6. interesting  7. students  8. drawing  9. are  10. their
+##### III. 句型转换(每空一词)
+1\. Can dance  
+2\. is good at  
+3\. What would  
+4\. What is doing  
+5\. How
+##### IV. 根据汉语意思完成句子(“/”分隔所有可能)
+1\. can't speak;well / cannot speak;well / can not speak;well  
+2\. names of the clubs;choose your favourite / names of the clubs;choose your favorite  
+3\. get on well with  
+4\. would;like to / is;pleased to  
+5\. I'm sure;wants / I am sure;wants / I'm sure;would like / I am sure;would like
