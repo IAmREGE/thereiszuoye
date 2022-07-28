@@ -174,7 +174,7 @@ the supermarket with her mother if the weather is fine.
 ### 重点单词(“/”分隔所有可能)
 1\. bank  2. museum  3. tourist  4. street  
 5\. underground / subway  6. visit  7. square  8. middle  
-9\. painting  10. metre / meter  11. river  12. bridge  
+9\. painting  10. [metre](https://iamrege.github.io/thereiszuoye/releases/english/4/metre) / [meter](https://iamrege.github.io/thereiszuoye/releases/english/4/meter)  11. river  12. bridge  
 13\. railway  14. church  15. station  16. across / cross  
 17\. forgive  18. turn  19. can / able / could / may  20. end  
 21\. famous  22. high / tall  23. by / along  24. across  
