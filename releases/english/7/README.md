@@ -52,7 +52,7 @@ traffic jams may happen. My mother usually goes to work by bus. It is cheap and
 energy-saved, but also, traffic jams may happen. I usually go to school on foot.
 It is healthy, and I do not need to worry about any traffic jams. But it is a
 bit slow.  
-[There hasn't been any subways in my city yet.](https://iamrege.github.com/thereiszuoye/releases/english/7/subways)
+[There hasn't been any subways in my city yet.](https://iamrege.github.io/thereiszuoye/releases/english/7/subways)
 # Module 5  Lao She Teahouse
 ### 重点单词(“/”分隔所有可能)
 1\. actress  2. teahouse  3. end / ending  4. ?  
