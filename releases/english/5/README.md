@@ -26,7 +26,7 @@ B)  CAABC
 ##### II. 词汇(答案为完整单词)
 A)  1. difficult  2. born  3. east  4. bathroom  5. village  
 B)  6. was  7. her  8. minutes  9. friendly  10. took
-##### III. 句型转换(每空一词)(“/”分隔所有可能)
+##### III. 句型转换(每空一词)
 1\. was not  
 2\. Were  
 3\. What was like  
@@ -154,7 +154,7 @@ meaningful.
 A)  ACBAB  
 B)  CABAB
 ##### II. 词汇(答案为完整单词)
-A)  1. relac  2. sells  3. till  4. arrived  5. French  
+A)  1. relax  2. sells  3. till  4. arrived  5. French  
 B)  6. really  7. First  8. went  9. was  10. ourselves
 ##### III. 句型转换(每空一词)
 1\. How long did take  
