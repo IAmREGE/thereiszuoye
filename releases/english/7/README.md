@@ -45,7 +45,7 @@ B)  6. daily  7. faster  8. minutes  9. Finally  10. to take
 DCBGA
 ##### VI. 阅读理解
 BCCBA
-##### VII. 书面表达(实例,共81词)
+##### VII. 书面表达(示例,共81词)
 **<center>How do we go to work / school?</center>**  
 My father usually goes to work by car. It is very comfortable and convinent, but
 traffic jams may happen. My mother usually goes to work by bus. It is cheap and
