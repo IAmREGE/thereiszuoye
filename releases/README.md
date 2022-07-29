@@ -1,8 +1,9 @@
 # [那里有好多作业!](https://iamrege.github.io/thereiszuoye)
 ## 查看作业
 ### [英语专区](https://iamrege.github.io/thereiszuoye/releases/english):
-#### 下一波作业:2022年7月29日19:30《攻略》P116\~135
-#### 最新更新:[2022年7月29日12:30《攻略》P96\~115](https://iamrege.github.io/thereiszuoye/releases/english/6)\(ZID6\)
+#### 下一波作业:2022年7月30日14:20《攻略》P136\~155
+#### 最新更新:[2022年7月29日23:00《攻略》P116\~135](https://iamrege.github.io/thereiszuoye/releases/english/7)\(ZID7\)
+[2022年7月29日12:30《攻略》P96\~115](https://iamrege.github.io/thereiszuoye/releases/english/6)\(ZID6\)  
 [2022年7月28日23:00《攻略》P76\~95](https://iamrege.github.io/thereiszuoye/releases/english/5)\(ZID5\)  
 [2022年7月28日17:50《攻略》P56\~75](https://iamrege.github.io/thereiszuoye/releases/english/4)\(ZID4\)  
 [2022年7月24日15:40《攻略》P36\~55](https://iamrege.github.io/thereiszuoye/releases/english/3)\(ZID3\)  
