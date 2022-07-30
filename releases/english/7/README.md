@@ -121,7 +121,7 @@ ACBBA
 ##### I. 单项选择
 A)  BCCAB  
 B)  ABCBA
-##### II. 词汇(答案为完整单词)
+##### II. 词汇(答案为完整单词)(“/”分隔所有可能)
 A)  1. feed  2. protect  3. allow  4. peace  5. state  
 B)  6. interested / love  7. to see  8. mother's  9. lovely / interesting  10. best  
 ##### III. 句型转换(每空一词)
@@ -167,7 +167,7 @@ B)  ABCBC
 A)  1. suddenly  2. twice  3. landed  4. ground  5. follow  
 B)  6. seventh  7. really  8. your  9. excited  10. to buy
 ##### III. 句型转换(每空一词)
-1\. wwas lying  
+1\. was lying  
 2\. weren't playing  
 3\. Were watching  
 4\. What was doing  
