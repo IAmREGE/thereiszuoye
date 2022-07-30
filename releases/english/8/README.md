@@ -1,9 +1,9 @@
 # [那里有好多作业!](https://iamrege.github.io/thereiszuoye)
-## [英语专区](https://iamrege.github.io/thereiszuoye/releases/english):ZID7
+## [英语专区](https://iamrege.github.io/thereiszuoye/releases/english):ZID8
 ### 下载离线文档
-##### 答案\(Markdown\):[a.md](https://github.com/IAmREGE/thereiszuoye/releases/download/english7/a.md)
-##### 答案\(纯文本,UTF-8\):[a.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/english7/a.txt)
-##### 答案\(纯文本,GBK\):[a-gbk.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/english7/a-gbk.txt)
+##### 答案\(Markdown\):[a.md](https://github.com/IAmREGE/thereiszuoye/releases/download/english8/a.md)
+##### 答案\(纯文本,UTF-8\):[a.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/english8/a.txt)
+##### 答案\(纯文本,GBK\):[a-gbk.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/english8/a-gbk.txt)
 -----
 # Module 7  A famous story
 ##### VI. 阅读理解
