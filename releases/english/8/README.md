@@ -184,7 +184,7 @@ A)  BCCAB
 B)  ACBCA
 ##### II. 词汇(答案为完整单词)(“/”分隔所有可能)
 A)  1. gift  2. month  3. accept  4. serious  5. shoulder / shoulders  
-B)  6. to relax  7. watching  8. their  9 weeks'  10. different
+B)  6. to relax  7. watching  8. their  9. weeks'  10. different
 ##### III. 句型转换(每空一词)
 1\. can't any  
 2\. No he needn't  
