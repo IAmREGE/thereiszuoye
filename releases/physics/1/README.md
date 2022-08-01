@@ -3,7 +3,7 @@
 ### 下载离线文档
 ##### 答案\(Markdown\):[a.md](https://github.com/IAmREGE/thereiszuoye/releases/download/physics1/a.md)
 ##### 答案\(纯文本,UTF-8\):[a.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/physics1/a.txt)
-##### 答案\(纯文本,GBK\):[a.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/physics1/a-gbk.txt)
+##### 答案\(纯文本,GBK\):[a-gbk.txt](https://github.com/IAmREGE/thereiszuoye/releases/download/physics1/a-gbk.txt)
 -----
 ### <center>第七章　　力与运动</center>
 ##### §知识梳理1:
