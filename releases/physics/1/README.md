@@ -30,7 +30,7 @@
 **【易错警示】**  
 2\. <u>跳远助跑</u> <u>系安全带</u>
 ##### §基础练习:
-1\. ![图片无法显示,请从https://iamrege.github.io/thereizuoye/releases/physics/1/a1.bmp 下载](https://iamrege.github.io/thereizuoye/releases/physics/1/a1.bmp)  
+1\. ![图片无法显示,请从https://iamrege.github.io/thereiszuoye/releases/physics/1/a1.bmp 下载](https://iamrege.github.io/thereiszuoye/releases/physics/1/a1.bmp)  
 2\. D  
 3\. B
 **注:第3题D选项缩句为“\{乘车时\}系安全带\{可以\}减小\[汽车\]\(突然\)\{加速时\}\[惯性\]\(造成的\)伤害”(系安全带减小伤害),但是为了保险起见选B**
